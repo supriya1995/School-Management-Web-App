@@ -1,5 +1,6 @@
 # School-Management-Web-App
 A Spring Boot based web app for School Management system. There are 3 entities - Admin, Student and Teacher.  
+
 Following are the functionality of Student -  
   1. Login/Signup
   2. Pay Fees Online
